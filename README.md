@@ -25,7 +25,7 @@ For the installation of python libraries:
 
 ```
 pip install pandas thefuzz pint sqlalchemy playwright
-pip install playwright
+python -m playwright install
 ```
 
 ### Final Output
